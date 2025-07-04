@@ -174,7 +174,7 @@ MIRROR_LOG_ID = ""
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
-BASE_URL = ""
+BASE_URL = "https://vidha-bot1.hf.space"
 BASE_URL_PORT = 0
 WEB_PINCODE = True
 
