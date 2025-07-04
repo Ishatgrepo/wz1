@@ -1,5 +1,5 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "8024733959:AAGt82pI8hI2orixrrPfj2_P0wqsYeWHPRk"                              # Require restart after changing it while bot running
+BOT_TOKEN = "7426381333:AAEQ8Ekxfp5tWJ4beWEscoTzcoLmNlzekG0"                              # Require restart after changing it while bot running
 OWNER_ID = 1503518003
 TELEGRAM_API = 21142226
 TELEGRAM_HASH = "c6d4a79cc8f1f6ca8da25f889b479be2"
