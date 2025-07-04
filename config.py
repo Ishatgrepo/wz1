@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7448023165:AAHa7asQ4ezY03-B0BY1m5lqSXsct4kbDjg"                              # Require restart after changing it while bot running
+OWNER_ID = 1503518003
+TELEGRAM_API = 21142226
+TELEGRAM_HASH = "c6d4a79cc8f1f6ca8da25f889b479be2"
+DATABASE_URL = "mongodb+srv://mega:honey@mega.afhtl0j.mongodb.net/"        
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
