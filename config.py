@@ -150,9 +150,9 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
-UPDATE_PKGS = True
+UPSTREAM_REPO = "https://github.com/Ishatgrepo/wz1"
+UPSTREAM_BRANCH = "wzv3"
+UPDATE_PKGS = False
 
 # Leech
 LEECH_SPLIT_SIZE = 0
